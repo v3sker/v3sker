@@ -8,7 +8,6 @@
 
 ### **About me:**
 
-<br>
 Hello! My name is Daniil, but people in Internet know me as v3sKer!<br>
 My dream was, is and wiil be to become a real cybersport player in CS. I feel like I can do that, and that I have enough "talent" and skill<br> 
 but, unfortunatelly I don't have enough time and perseverance to start a real cybersport career.<br>
