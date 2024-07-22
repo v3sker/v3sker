@@ -1,0 +1,10 @@
+discordid: '407157653475819530' # Здесь должен быть ID пользователя дискорд (обязательно)
+user_firstname: 'v3sker' # Имя пользователя или псевдоним (Обязательно)
+userbio: 'Professional lazy idiot.' # Описание профиля пользователя (обязательно)
+
+instagram_login: '@v3skerxd' # Логин от инстаграм (Не обязательно)
+website_url: 'v3sker.site' # Ссылка на сайт (Не обязательно)
+twitter_login: '@v3skerxd' # Логин от твиттер (Не обязательно)
+
+profile_theme: 'heterosexual' # Стиль профиля, доступные стили dark, light
+profile_color: 'rgb(0, 255, 0)' # Цвет рамки профиля
