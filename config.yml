@@ -1,10 +1,20 @@
-discordid: '407157653475819530' # Здесь должен быть ID пользователя дискорд (обязательно)
-user_firstname: 'v3sker' # Имя пользователя или псевдоним (Обязательно)
-userbio: 'Professional lazy idiot.' # Описание профиля пользователя (обязательно)
+#
+#  Configuration file for BitWave Bio
+#     https://github.com/BitWaveOrg
+#           https://five.bio
+#
 
-instagram_login: 'v3skerxd' # Логин от инстаграм (Не обязательно)
-website_url: 'https://v3sker.site' # Ссылка на сайт (Не обязательно)
-twitter_login: 'v3skerxd' # Логин от твиттер (Не обязательно)
+user_firstname: 'v3sker' # Username shown on profile (Required)
+userbio: 'Making my way in the Full-Stack Web Development.' # Profile description (Required)
 
-profile_theme: 'heterosexual' # Стиль профиля, доступные стили dark, light
-profile_color: 'rgb(0, 255, 0)' # Цвет рамки профиля
+linkedin_login: '' # LinkedIn login (Optional)
+telegram_login: 'reKs3v' # Telegram login (Optional)
+discords_login: 'v3sker' # DiscordS login (Optional)
+steam_login: 'v3sker' # SteamCommunity ID (Optional)
+instagram_login: 'v3skerxd' # Instagram login (Optional)
+twitter_login: 'v3skerxd' # Twitter login (Optional)
+website_url: 'https://v3sker.site' # Website url (Optional)
+cv_url: '' # CV URL (Optional)
+
+profile_theme: 'dark' # Profile style
+profile_color: 'rgb(0,0,0)' # Profile border color
